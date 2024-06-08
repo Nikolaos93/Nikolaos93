@@ -6,10 +6,10 @@
 Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on *Undisclosed Research*
-- 🌱 I’m currently learning WebGL and OpenXR 
+- 🌱 I’m currently learning *WebGL and OpenXR*
 - 👯 I’m looking to collaborate on "*Virtual Reality publishing*"
 <!-- - 🤔 I’m looking for help with ... -->
-- 💬 Ask me about Computer Graphics and Virtual Reality
+- 💬 Ask me about *Computer Graphics* and *Virtual Reality*
 <!-- - 📫 How to reach me: ... -->
 - ⚡ Fun fact: ... 
 
